@@ -1,3 +1,3 @@
-# hugging-face
-exploring huggingface 
+# CV-Projects
+Currently exploring Face Recognition
 
